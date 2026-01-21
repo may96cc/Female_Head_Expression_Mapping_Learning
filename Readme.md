@@ -60,7 +60,7 @@ Comma-separated file containing cross and haplotype phenotype information.
 ### ProcessedData/
 
 #### A_RILS_Hap_Probs.csv
-Haplotype probabilities for A-panel RILs (RIL IDs starting with 11xxx).
+Haplotype probabilities for A-panel RILs.
 
 | Column | Description |
 |--------|-------------|
@@ -68,7 +68,7 @@ Haplotype probabilities for A-panel RILs (RIL IDs starting with 11xxx).
 | {chr}_{pos}_{hap} | Haplotype probability (e.g., `2L_100000_AA1` = chromosome 2L, position 100000, founder AA1) |
 
 #### B_RILS_Hap_Probs.csv
-Haplotype probabilities for B-panel RILs (RIL IDs starting with 21xxx).
+Haplotype probabilities for B-panel RILs.
 
 | Column | Description |
 |--------|-------------|
