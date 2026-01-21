@@ -55,6 +55,7 @@ Comma-separated file containing cross and haplotype phenotype information.
 | patRIL | Paternal RIL identifier |
 | matRIL | Maternal RIL identifier |
 | sex | Sex of the sample (F = Female) |
+| id | Cross identifier |
 
 ### ProcessedData/
 
