@@ -2,6 +2,10 @@
 
 QTL mapping of gene expression traits in female *Drosophila melanogaster* heads using the Drosophila Synthetic Population Resource (DSPR). This project identifies genetic loci associated with variation in gene expression using recombinant inbred line (RIL) crosses. Modeling via deep learning (MLPs) to be added
 
+Data from original publication : King, E. G., Sanderson, B. J., McNeil, C. L., Long, A. D., & Macdonald, S. J. (2014). Genetic dissection of the Drosophila melanogaster female head transcriptome reveals widespread allelic heterogeneity. PLoS Genetics, 10(5), e1004322.
+
+DSPR website : https://wfitch.bio.uci.edu/~dspr/
+
 ## Project Structure
 
 ```
