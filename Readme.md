@@ -48,7 +48,7 @@ Comma-separated file containing heritability (h²) estimates for each gene.
 
 | Column | Description |
 |--------|-------------|
-| (row names) | Gene identifier (e.g., CG17210) |
+| phenotype | Gene identifier (e.g., CG17210) |
 | x | Heritability estimate |
 
 #### cross_hap_phenotype.csv
