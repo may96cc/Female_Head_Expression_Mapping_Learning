@@ -179,5 +179,6 @@ Mary York may96c@umsystem.edu
 ## References
 
 - King EG, Macdonald SJ, Long AD (2012). Properties and power of the Drosophila Synthetic Population Resource for the routine dissection of complex traits. *Genetics* 191(3):935-949.
+- King, E. G., Sanderson, B. J., McNeil, C. L., Long, A. D., & Macdonald, S. J. (2014). Genetic dissection of the Drosophila melanogaster female head transcriptome reveals widespread allelic heterogeneity. PLoS Genetics, 10(5), e1004322.
 - Churchill GA, Doerge RW (1994). Empirical threshold values for quantitative trait mapping. *Genetics* 138(3):963-971.
 - Broman KW, Sen S (2009). *A Guide to QTL Mapping with R/qtl*. Springer.
