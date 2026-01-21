@@ -1,0 +1,15 @@
+# Ignore processed data files (large)
+ProcessedData/*.csv
+
+# Keep the directory structure
+!ProcessedData/.gitkeep
+
+# Optional: ignore other large/temp files
+*.pyc
+__pycache__/
+*.log
+*.out
+*.err
+.DS_Store
+RawData/FemaleHeadExpression.txt
+RawData/FemaleHeadExpression.txt
