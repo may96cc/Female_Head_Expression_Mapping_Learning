@@ -41,7 +41,7 @@ Tab-delimited file containing gene expression values for RIL crosses.
 |--------|-------------|
 | patRIL | Paternal RIL identifier |
 | matRIL | Maternal RIL identifier |
-| CG##### | Expression values for each gene (one column per gene) |
+| CG##### | Normalized expression values for each gene (one column per gene) |
 
 #### h2.csv
 Comma-separated file containing heritability (h²) estimates for each gene.
