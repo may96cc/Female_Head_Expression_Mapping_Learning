@@ -174,7 +174,7 @@ python Scripts/qtl_mapping_fast.py --pheno-start 0 --pheno-end 100 --n-perms 100
 
 ## Contact
 
-Mary York may96c@umsystem.edu
+Mary York myork@missouri.edu
 
 ## References
 
